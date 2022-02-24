@@ -1,0 +1,10 @@
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\bin\Debug\CRUDAmurao.exe.config
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\bin\Debug\CRUDAmurao.exe
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\bin\Debug\CRUDAmurao.pdb
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\obj\Debug\CRUDAmurao.csproj.AssemblyReference.cache
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\obj\Debug\CRUDAmurao.Form1.resources
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\obj\Debug\CRUDAmurao.Properties.Resources.resources
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\obj\Debug\CRUDAmurao.csproj.GenerateResource.cache
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\obj\Debug\CRUDAmurao.csproj.CoreCompileInputs.cache
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\obj\Debug\CRUDAmurao.exe
+C:\Users\John Oliver Amurao\source\repos\CRUDAmurao\obj\Debug\CRUDAmurao.pdb
